@@ -1,0 +1,19 @@
+SECOM NUMERICAL DATA ANALYSIS
+Student: Bautista
+Student ID: TUPM-26-3506
+Random Seed: 263506
+Verification Value: 182
+Sample Size: 222
+Assigned Features: Feature_390, Feature_492, Feature_581, Feature_108, Feature_580
+Pass Records: 209
+Fail Records: 13
+Sample Failure: 5.86%
+Highest-SD Feature: Feature_390
+Highest Sample SD: 53.9945
+Verification: PASSED
+
+Interpretation Notes:
+- Median imputation supports descriptive analysis.
+- Raw variability does not imply feature importance.
+- Group differences do not establish failure causes.
+- Sample failure percentage is not prediction accuracy.
